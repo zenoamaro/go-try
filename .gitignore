@@ -1,0 +1,9 @@
+/try
+
+*~
+~*
+tmp/
+*.tmp
+*.log
+*.bak
+*.orig
